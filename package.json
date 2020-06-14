@@ -1,0 +1,26 @@
+{
+  "name": "json-web-token-auth",
+  "version": "1.0.0",
+  "description": "express and react and json web token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/machy44/json-web-token-auth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/machy44/json-web-token-auth/issues"
+  },
+  "homepage": "https://github.com/machy44/json-web-token-auth#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "pg": "^8.2.1"
+  }
+}
